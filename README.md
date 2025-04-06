@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ProjetoBuzzfeed
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.2.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# Angular-Projeto-Quizz-BuzzFeed
+Project idealizated to Decola Tech 2025 Quizz BuzzFeed
+>>>>>>> 90f38192eff6731e40ec7e0292eb65e2215b0832
